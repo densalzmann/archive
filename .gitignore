@@ -1,9 +1,7 @@
-#Ignore everything
+# #Ignore everything
 *
 
-# But not these files...
+# # But not these files...
 !.gitignore
 !add_folder.bash
-
-## Archive folders
-!personal/.placeholder
+!*/

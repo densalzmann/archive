@@ -1,7 +1,8 @@
 # #Ignore everything
 *
 
-# # But not these files...
+# # But not these files... https://stackoverflow.com/questions/987142/make-gitignore-ignore-everything-except-a-few-files 
 !.gitignore
-!add_folder.bash
+!mkdir.bash
+!rmdir.bash
 !*/
